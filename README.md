@@ -144,7 +144,7 @@ We've installed a gem called `learn-co` for interacting with `learn.co` from you
 
 #### Sublime Text
 
-[Sublime Text](http://www.sublimetext.com/) is the text editor we use at The Flatiron School. The Environmentalizer installs Sublime Text with a package manager so you can install cool themes and useful add-ons, like the [Brogrammer Theme](https://github.com/kenwheeler/brogrammer-theme) and [Bracket Highlighter](https://github.com/facelessuser/BracketHighlighter). Make sure you take the time to set it up to your liking, because you will be spending a lot of time with it! You'll see Sublime Text in your `Applications` directory.
+[Sublime Text](http://www.sublimetext.com/) is the text editor we use at The Flatiron School. The Environmentalizer installs Sublime Text with a package manager so you can install cool themes and useful add-ons. Make sure you take the time to set it up to your liking, because you will be spending a lot of time with it! You'll see Sublime Text in your `Applications` directory.
 
 ![Sublime Text](https://dl.dropboxusercontent.com/s/wenp87iskz1gz9j/2015-05-03%20at%208.36%20PM.png)
 
