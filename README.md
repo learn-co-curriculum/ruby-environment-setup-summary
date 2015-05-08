@@ -7,7 +7,16 @@ languages: ruby, bash
 
 If you've gone through setup on the Learn OSX application, your machine has already been setup for web development with Ruby. The setup is based on [Environmentalizer](https://github.com/flatiron-school/environmentalizer), a script we use at Flatiron.
 
-The purpose of this document is to provide you with a summary of how your machine has been setup.
+### Requirements
+
+These are the basic requirements for Learn and Ruby, below we describe how we set them up using Environmentalizer, but if you setup your environment yourself, you should have the basic requirements listed below:
+
+1. XCode & GCC
+2. Git
+3. Ruby (probably through RVM and Rbenv or a ruby manager)
+4. SQlite3
+5. The rails gem (`gem install rails`)
+6. The learn gem (`gem install learn-co`)
 
 ### XCode
 
