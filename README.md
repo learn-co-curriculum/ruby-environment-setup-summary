@@ -181,6 +181,7 @@ $ ssh git@github.com
 ```
 You may be asked if you are sure you want to continue connecting. Enter yes. You will then see, 
 
+```
 Hi aviflombaum! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
