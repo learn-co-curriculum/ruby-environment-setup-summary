@@ -9,7 +9,7 @@ If you've gone through setup on the Learn OSX application, your machine has alre
 
 ### Requirements
 
-These are the basic requirements for Learn and Ruby, below we describe how we set them up using Environmentalizer, but if you setup your environment yourself, you should have the basic requirements listed below:
+These are the basic requirements for Learn and Ruby, below we describe how we set them up using Environmentalizer, but if you set up your environment yourself, you should have the basic requirements listed below:
 
 1. XCode & GCC
 2. Git
@@ -55,7 +55,7 @@ Here are a few tips for setting up your directories:
 * When creating directories, except for directories in `~` (the home directory), always use lowercase directory names for ease of access.
 * When creating directory names it is preferable to use a "-" instead of a "_" to denote spaces.
 * Keep all code in one place so you can access it easily.
-* Make sure you have another directory to keep your resources and other things that are related to code, but aren't code here you might keep your local copy of [The markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) or other documentation.
+* Make sure you have another directory to keep your resources and other things that are related to code, but aren't code. Here you might keep your local copy of [The markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or other documentation.
 * Remember to build your folder structure so you can easily navigate in and out of your project directories. 
 
 ### .bash_profile
@@ -174,10 +174,13 @@ Symlink stands for "Symbolic Link". A symlink is represented as a text string th
 
 ### SSH Key
 
-SSH stands for "Secure Shell". It is a command interface for communicating with secure servers. SSH keys serve as a means to identify yourself to a SSH server. To set up proper SSH Key Authentication you need a public key (like the one you got from GitHub) and a private key (which will be generated when the Environmentalizer runs). The private key on your computer will allow you to access the Github server with the public key without having to enter a password. You can test this with:
+SSH stands for "Secure Shell". It is a command interface for communicating with secure servers. SSH keys serve as a means to identify yourself to an SSH server. To set up proper SSH Key Authentication you need a public key (like the one you got from GitHub) and a private key (which will be generated when the Environmentalizer runs). The private key on your computer will allow you to access the Github server with the public key without having to enter a password. You can test this with:
 
 ```bash
 $ ssh git@github.com
+```
+You may be asked if you are sure you want to continue connecting. Enter yes. You will then see, 
+
 Hi aviflombaum! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
