@@ -5,11 +5,11 @@ languages: ruby, bash
 
 ## Ruby Environment Setup Summary
 
-If you've gone through setup on the Learn OSX application, your machine has already been setup for web development with Ruby. The setup is based on [Environmentalizer](https://github.com/flatiron-school/environmentalizer), a script we use at Flatiron.
+If you've gone through setup on the Learn OSX application, your machine has already been setup for web development with Ruby. 
 
 ### Requirements
 
-These are the basic requirements for Learn and Ruby, below we describe how we set them up using Environmentalizer, but if you set up your environment yourself, you should have the basic requirements listed below:
+These are the basic requirements for Learn and Ruby. Below we describe how we set them up using the Learn app, but if you want to set up your environment yourself, you should have the basic requirements listed below:
 
 1. XCode & GCC
 2. Git
@@ -48,7 +48,7 @@ You also might get something about accepting terms of service from Apple, if you
 
 ### File Directory
 
-The changes here are simple. The Environmentalizer adds a "Development" folder to the root of your home directory. This gives you a place to organize your code.
+The changes here are simple. The Learn app adds a "Development" folder to the root of your home directory. This gives you a place to organize your code.
 
 Here are a few tips for setting up your directories:
 
