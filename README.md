@@ -5,7 +5,9 @@ languages: ruby, bash
 
 ## Ruby Environment Setup Summary
 
-If you've gone through setup on the Learn OSX application, your machine has already been setup for web development with Ruby. 
+If you've gone through setup on the Learn OS X application, your machine has already been setup for web development with Ruby. If you have not used the Learn OS X application, but would like to, it can be found here:
+
+[Learn OS X application](https://learn.co/tools)
 
 ### Requirements
 
