@@ -52,7 +52,7 @@ Here are a few tips for setting up your directories:
 * When creating directories, except for directories in `~` (the home directory), always use lowercase directory names for ease of access.
 * When creating directory names it is preferable to use a "-" instead of a "_" to denote spaces.
 * Keep all code in one place so you can access it easily.
-* Make sure you have another directory to keep your resources and other things that are related to code, but aren't code. Here you might keep your local copy of [The markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or other documentation.
+* Make sure you have another directory to keep your resources and other things that are related to code, but aren't code. Here you might keep your local copy of [The markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or other documentation.
 * Remember to build your folder structure so you can easily navigate in and out of your project directories. 
 
 ### .bash_profile
