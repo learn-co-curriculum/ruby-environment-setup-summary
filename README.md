@@ -187,3 +187,5 @@ If you get anything else, there was a problem setting up your SSH keys.
 ### Google Chrome
 
 Google Chrome is a Web Browser, we suggest you use it when developing in rails.
+
+test
