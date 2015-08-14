@@ -4,7 +4,7 @@ If you've gone through setup on the Learn OS X application, your machine has alr
 
 [Learn OS X application](https://learn.co/tools)
 
-### Requirements
+### Requirementss
 
 These are the basic requirements for Learn and Ruby. Below we describe how we set them up using the Learn app, but if you want to set up your environment yourself, you should have the basic requirements listed below:
 
