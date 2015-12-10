@@ -160,7 +160,7 @@ Like the `.bash_profile` these are scripts and configuration files that work in 
 
 * `.gitconfig` will contain the settings that you will take advantage of when employing git in your command line. 
 * `.gitignore` is a collection of files that you want git to ignore. Some files that you don't want git to track including, but not limited to, `.DS_Store` and `.env`.
-* `.gemrc` Another settings file, this time for your your interaction with ruby gems.
+* `.gemrc` Another settings file, this time for your interaction with ruby gems.
 * `.irbrc` IRB stands for "Interactive Ruby Shell". By typing the command `irb` in your command line you can open up a ruby shell and write ruby code directly in your terminal. The `.irbc` file will contain any custom settings for your use of IRB.
 
 Remember to look through all of these files to see exactly what settings each contains and learn what effect they have on your computer. 
@@ -187,5 +187,3 @@ If you get anything else, there was a problem setting up your SSH keys.
 ### Google Chrome
 
 Google Chrome is a Web Browser, we suggest you use it when developing in rails.
-
-<a href='https://learn.co/lessons/ruby-environment-setup-summary' data-visibility='hidden'>View this lesson on Learn.co</a>
