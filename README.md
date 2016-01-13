@@ -65,7 +65,7 @@ And finally, you can also build functions to simplify common workflows.
 
 The Environmentalizer installs the [Flatiron Bash Profile](https://github.com/flatiron-school/dotfiles/blob/master/bash_profile) for you!
 
-Within that bash profile are comments that explain each part. **Make sure to read them!** You can always comment sections in/out to see what they do and how they effect your prompt, shell, and environment.
+Within that bash profile are comments that explain each part. **Make sure to read them!** You can always comment sections in/out to see what they do and how they affect your prompt, shell, and environment.
 
 Just remember, to activate a change in the dotfile, you must **reload your shell**. You can do that via opening a new tab or typing `source .bash_profile` (from the `~` directory).
 
