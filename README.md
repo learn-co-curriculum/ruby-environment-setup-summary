@@ -188,4 +188,4 @@ If you get anything else, there was a problem setting up your SSH keys.
 
 Google Chrome is a Web Browser, we suggest you use it when developing in rails.
 
-<a href='https://learn.co/lessons/ruby-environment-setup-summary' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-environment-setup-summary' title='Ruby Environment Setup Summary'>Ruby Environment Setup Summary</a> on Learn.co and start learning to code for free.</p>
