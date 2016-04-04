@@ -4,6 +4,8 @@ If you've gone through setup on the Learn OS X application, your machine has alr
 
 [Learn OS X application](https://learn.co/osx/download)
 
+**NOTE**: If you already have a development environment roughly similar to the one below (e.g., you have Ruby installed and use RVM or rbenv; you have git installed; etc.), it's best to go through the manual setup below. **DO NOT** try to install things through the OS X application. You can still use the app, just don't run its environment setup step.
+
 ### Requirements
 
 These are the basic requirements for Learn and Ruby. Below we describe how we set them up using the Learn app, but if you want to set up your environment yourself, you should have the basic requirements listed below:
@@ -146,7 +148,17 @@ You're good.
 
 #### The Learn Gem
 
-We've installed a gem called `learn-co` for interacting with `learn.co` from your command line. Try it out by typing `learn`, as long as you don't get a bash error about `learn: command not found.` you're all set.
+We've installed a gem called `learn-co` for interacting with `learn.co` from your command line. Try it out by typing `learn`.
+
+You should see something like
+
+```bash
+Connecting to Learn...
+Authenticating...
+You don't appear to be in a Learn lesson's directory. Please cd to an appropriate directory and try again.
+```
+
+This means the gem is installed correctly! As long as you don't get a bash error about `learn: command not found.`, you're all set. You'll learn more about the gem in your first lab.
 
 #### Text Editor
 
