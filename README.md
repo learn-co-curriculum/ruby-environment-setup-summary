@@ -148,9 +148,19 @@ You're good.
 
 We've installed a gem called `learn-co` for interacting with `learn.co` from your command line. Try it out by typing `learn`, as long as you don't get a bash error about `learn: command not found.` you're all set.
 
-#### Sublime Text
+#### Text Editor
 
-[Sublime Text](http://www.sublimetext.com/) is the text editor we use at The Flatiron School. The Environmentalizer installs Sublime Text with a package manager so you can install cool themes and useful add-ons. Make sure you take the time to set it up to your liking, because you will be spending a lot of time with it! You'll see Sublime Text in your `Applications` directory.
+Using the automated setup will install [Sublime Text](http://www.sublimetext.com/) in your `Applications` directory. You can read more about Sublime below. If you'd like, you should also feel free to explore installing [Atom](atom.io).
+
+##### Atom
+
+[Atom](atom.io) is a great text editor for getting up and running. It's completely free and open-sourced, and it's impressively extensible — but it comes with sane defaults.
+
+Sometimes its features can lag a bit behind other editors, and text input still feels _slightly_ laggy — but many of us here use it every day (and some of us hack on the platform itself), and it's getting better all the time!
+
+##### Sublime Text
+
+[Sublime Text](http://www.sublimetext.com/) is another favorite text editor that we use at The Flatiron School. The Environmentalizer installs Sublime Text with a package manager so you can install cool themes and useful add-ons. Make sure you take the time to set it up to your liking, because you will be spending a lot of time with it! You'll see Sublime Text in your `Applications` directory.
 
 ![Sublime Text](https://dl.dropboxusercontent.com/s/wenp87iskz1gz9j/2015-05-03%20at%208.36%20PM.png)
 
