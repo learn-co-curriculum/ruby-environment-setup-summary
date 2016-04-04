@@ -4,6 +4,8 @@ If you've gone through setup on the Learn OS X application, your machine has alr
 
 [Learn OS X application](https://learn.co/osx/download)
 
+It's also a good idea to run through the steps below if you're having some trouble with the automatic setup — always good to learn about what's going on!
+
 **NOTE**: If you already have a development environment roughly similar to the one below (e.g., you have Ruby installed and use RVM or rbenv; you have git installed; etc.), it's best to go through the manual setup below. **DO NOT** try to install things through the OS X application. You can still use the app, just don't run its environment setup step.
 
 ### Requirements
