@@ -1,6 +1,6 @@
 ## Ruby Environment Setup Summary
 
-If you've gone through setup on the Learn OS X application, your machine has already been setup for web development with Ruby. If you have not used the Learn OS X application, but would like to, it can be found here:
+If you've gone through setup on the Learn OS X application (see the wheel on the bottom right?), your machine has already been setup for web development with Ruby. If you have not used the Learn OS X application, but would like to, it can be found here:
 
 [Learn OS X application](https://learn.co/osx/download)
 
@@ -213,3 +213,5 @@ If you get anything else, there was a problem setting up your SSH keys.
 Google Chrome is a Web Browser, we suggest you use it when developing in rails.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-environment-setup-summary' title='Ruby Environment Setup Summary'>Ruby Environment Setup Summary</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-environment-setup-summary'>Environment Setup Summary</a> on Learn.co and start learning to code for free.</p>
